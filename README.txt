@@ -1,0 +1,1 @@
+#Szablony dokumentacji do projektu
